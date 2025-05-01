@@ -15,11 +15,11 @@ To secure a Security Engineer or Detection & Response Analyst position where I c
 * Integrate AI/ML pipelines to automate anomaly detection, threat hunting, and response workflows—accelerating mean time to detect and resolve.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">HomeSOC-Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Parveen-Birthaliya/HomeSOC-Lab">HomeSOC-Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -27,7 +27,6 @@ To secure a Security Engineer or Detection & Response Analyst position where I c
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -60,5 +59,5 @@ To secure a Security Engineer or Detection & Response Analyst position where I c
 </div>
 
 ## Projects
-- HomeSOC-Lab
+- <a href="https://github.com/Parveen-Birthaliya/HomeSOC-Lab">HomeSOC-Lab</a>
 - HoneyPot
