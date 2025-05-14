@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parveen-birthaliya-66b413314)
 
-Cybersecurity enthusiast | B.Tech (AI-ML) | Top 1% TryHackMe | Security Researcher at Cyber Secured India
-
+Cybersecurity enthusiast | B.Tech (AI-ML) | Top 1% TryHackMe | 
 I specialize in building enterprise-grade SOC labs, automating threat detection workflows, and applying AI/ML to cyber defense. My journey is fueled by lab-based learning, blue-team engineering, and hands-on simulation of real-world incidents.
 
 ---
