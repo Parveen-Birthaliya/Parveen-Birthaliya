@@ -1,63 +1,77 @@
-# Hello, I'm PARVEEN
-<a href="https://www.linkedin.com/in/parveen-birthaliya-66b413314"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+#  Hello, I'm PARVEEN BIRTHALIYA
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parveen-birthaliya-66b413314)
 
-With a robust foundation in AI/ML and hands-on security research, I architect and operationalize enterprise-grade SOC controls and build proactive defense frameworks. My dual focus on security engineering and Tier 1 SOC analysis drives continuous improvement—ensuring resilient infrastructures and rapid, accurate incident response.
+Cybersecurity enthusiast | B.Tech (AI-ML) | Top 1% TryHackMe | Security Researcher at Cyber Secured India
 
-## Objective
-Objective
-To secure a Security Engineer or Detection & Response Analyst position where I can:
+I specialize in building enterprise-grade SOC labs, automating threat detection workflows, and applying AI/ML to cyber defense. My journey is fueled by lab-based learning, blue-team engineering, and hands-on simulation of real-world incidents.
 
-* Design and deploy scalable security architectures (SIEM, EDR, SOAR) that safeguard cloud and on-prem environments.
+---
 
-* Lead 24×7 SOC operations, from log ingestion through expert triage, containment, and forensic analysis.
+##  Career Objective
 
-* Integrate AI/ML pipelines to automate anomaly detection, threat hunting, and response workflows—accelerating mean time to detect and resolve.
+To secure a role in **Security Engineering** or **Detection & Response**, where I can:
 
-## Skills
+- Engineer and scale SOC pipelines (SIEM, EDR, SOAR)
+- Detect, respond, and contain threats in hybrid cloud environments
+- Build ML-driven detection models for proactive threat hunting
+- Convert threat intel into automated response strategies
 
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Parveen-Birthaliya/HomeSOC-Lab">HomeSOC-Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Current Focus
 
-## Tools
+-  SOC 2 Readiness & Audit Mapping  
+-  CySA+ Exam Preparation  
+-  Threat Emulation in SOC Labs (Elastic, Wazuh, Suricata)  
+-  Python-based SOAR Automation Scripts  
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetworkMiner-EF3B2D?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## Skills Snapshot
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/ELK_Stack-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-osTicket-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+| Domain                         | Tools/Platforms                                          |
+|-------------------------------|----------------------------------------------------------|
+| SIEM & Log Analysis           | Elastic Stack, Splunk, Wazuh, Sysmon,                    |
+| Network & Endpoint Security   | Zeek, Suricata, Wireshark, CrowdStrike Falcon            |
+| Threat Intel & Case Handling  | TheHive, MISP, osTicket, MITRE ATT&CK                    |
+| Exploitation & Forensics      | PortSwigger, HTB, TryHackMe, CyberDefenders              |
+| Scripting & Automation        | Python, Bash, Shuffle SOAR                               |
 
-## Certifications
+---
 
-  <div> 
-    <img src="https://img.shields.io/badge/-Google_Professional_Cyber_Security-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity" />
-    <img src="https://img.shields.io/badge/-OPSWAT-FF6F00?style=for-the-badge&logo=OPSWAT&logoColor=white" alt="OPSWAT" /> 
-    <img src="https://img.shields.io/badge/-TryHackMe-22C55E?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="THM" /> 
-    <img src="https://img.shields.io/badge/-CyberDefenders_SOC-8B008B?style=for-the-badge&logoColor=white" alt="CyberDefenders" /> 
-    <img src="https://img.shields.io/badge/-SOC 2-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="SOC 2" /> </div>
-</div>
+##  Featured Projects
 
-## Projects
-- <a href="https://github.com/Parveen-Birthaliya/HomeSOC-Lab">HomeSOC-Lab</a>
-- HoneyPot
+|  Project | Description |
+|-----------|-------------|
+| [HomeSOC-Lab](https://github.com/Parveen-Birthaliya/HomeSOC-Lab) | Full-stack SOC: SIEM, EDR, ML analytics, alert triage |
+| [SOC Automation Lab](https://github.com/Parveen-Birthaliya/SOC-Automation) | Shuffle + Python for automated enrichment & response |
+| [Honeypot Lab (TPOT)](https://github.com/Parveen-Birthaliya/Honeypot) | Multi-sensor deception system capturing live threats |
+
+---
+
+##  Certifications
+
+- Google Professional Cybersecurity
+- OPSWAT Endpoint Protection
+- CyberDefenders SOC Analyst Tier I (Rank #19 India)
+- TryHackMe (220+ day streak, 175+ labs, Jr PenTester)
+- SOC 2 Audit & Controls Knowledgebase
+
+---
+
+##  What's Next
+
+- AI/ML for threat behavior detection in SIEM pipelines  
+- Correlation rule tuning and anomaly detection  
+- Tier II Analyst skillset development  
+- Open-source contribution in SOC automation  
+
+---
+
+ [parveenbirthaliya@gmail.com](mailto:parveenbirthaliya@gmail.com)  
+ GitHub: [Parveen-Birthaliya](https://github.com/Parveen-Birthaliya)  
+ TryHackMe: [K4LK1](https://tryhackme.com/p/K4LK1)  
+ CyberDefenders: [Bits_Kalki](https://cyberdefenders.org/p/Bits_Kalki)
+
+> _"Make security proactive, not reactive."_
