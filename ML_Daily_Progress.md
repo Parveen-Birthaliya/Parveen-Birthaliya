@@ -4,7 +4,17 @@
  3. Explored Medium blogs and implemented 1 project Resume scorer
 
 ### Date : 30 Sep 2025 Task
-  1. Decesion Tree Complete
-  2. Wroking on Open source Project and extracting info 
+  1. Decesion Tree Complete - done
+  2. Wroking on Open source Project and extracting info  - not started
   3. Adding funtionality in Resume scorer project
-  4. Exploring More blogs 
+  4. Exploring More blogs - done
+  5. git & github - done
+
+### Date 1 oct 2025 
+  1. Ensemble 5 lecture done
+  2. implemenation - done 
+  3. docker - half 
+  4. dsa - 2 question done
+  5. blog explore - done
+
+
