@@ -17,4 +17,22 @@
   4. dsa - 2 question done
   5. blog explore - done
 
+### Date 2 oct 2025 
+1. Watched lecture next 5
+2. Solved 2 DSA questions
+3. Explored different articles on Substack and medium
+4. geeksforgeeks array
+
+### Date 3 oct 2025 
+1. Revision on ML playlist 
+2. Created Post on linkedIn
+3. Created Medium Blog on Implementing Bagging Regressor on California housing dataset
+4. Solved 2 DSA questions
+5. Explored How to Open Source
+   
+### Date 4 Oct 2025 (First PR)
+1. Deep Learning Lec 1,2(From 100 days of DL campusx)
+2. Kaggle Explored different trained model , learnt how to train model
+3. Created my First PR, learnt web scraping and contributed to Open Source Project
+4. Explored different ML model on Youtube
 
