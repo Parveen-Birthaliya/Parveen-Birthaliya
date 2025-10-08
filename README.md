@@ -6,7 +6,7 @@ Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
 
 ---
 
-#### I specialize in developing end-to-end AI solutions, focusing on scalable machine learning systems, data pipelines, and production-ready deployments. My expertise spans across computer vision, natural language processing, and predictive analytics, with a strong emphasis on reproducibility and performance optimization.
+#### Passionately learning and building scalable AI solutions that turn data into real-world impact.
 ---
 
 ## 🔥 GitHub Streak
