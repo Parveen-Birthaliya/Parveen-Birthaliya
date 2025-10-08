@@ -27,7 +27,7 @@ Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parveenbirthaliya/" target="_blank">
+  <a href="https://www.linkedin.com/in/parveen-birthaliya-66b413314/" target="_blank">
     <img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;
