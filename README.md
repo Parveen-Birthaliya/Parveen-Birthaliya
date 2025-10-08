@@ -1,6 +1,5 @@
 #  Hello, I'm PARVEEN BIRTHALIYA
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parveen-birthaliya-66b413314)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@Bit_Picker)
 
 Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
@@ -34,6 +33,10 @@ Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
   &nbsp;&nbsp;
   <a href="mailto:parveenbirthaliya@gmail.com" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="Email" width="40" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@Bit_Picker" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Parveen-Birthaliya" target="_blank">
