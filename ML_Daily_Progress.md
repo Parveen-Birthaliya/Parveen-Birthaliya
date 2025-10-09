@@ -36,3 +36,15 @@
 3. Created my First PR, learnt web scraping and contributed to Open Source Project
 4. Explored different ML model on Youtube
 
+
+
+I forget to add between this , but I made some progress
+
+### Date 8 Oct 
+1. Done 2 DSA Question
+2. Completed assignment and gived to professor
+   
+### 9 Oct 2025
+1. Solved 3 DSA question on array & string(first 3 NeetCode) , started NeetCode 250
+2. Explored about the NivasaAI Project, created Mindmap
+   
