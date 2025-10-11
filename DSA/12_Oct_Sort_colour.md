@@ -24,7 +24,7 @@ class Solution:
 
 
 ```
-## Best Solution # pointer
+## Best Solution 3 pointer
 ```
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
@@ -49,4 +49,33 @@ class Solution:
                 mid += 1
 
 
+```
+```
+class Solution:
+    def sortColors_counting_sort(self, nums: List[int]) -> None:
+        count0 = 0
+        count1 = 0
+        count2 = 0
+        n = len(nums)
+
+        # First pass: Count occurrences of each color
+        for num in nums:
+            if num == 0:
+                count0 += 1
+            elif num == 1:
+                count1 += 1
+            else: # num == 2
+                count2 += 1
+        
+        # Second pass: Overwrite the array
+        idx = 0
+        for _ in range(count0):
+            nums[idx] = 0
+            idx += 1
+        for _ in range(count1):
+            nums[idx] = 1
+            idx += 1
+        for _ in range(count2):
+            nums[idx] = 2
+            idx += 1
 ```
