@@ -13,7 +13,7 @@ Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Parveen-Birthaliya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Parveen Birthaliya's Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+ 
   
   <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parveen-Birthaliya&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Parveen Birthaliya's GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 
