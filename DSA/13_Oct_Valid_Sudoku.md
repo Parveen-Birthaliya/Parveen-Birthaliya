@@ -25,7 +25,7 @@ class Solution:
                 boxes[(r//3, c//3)].add(val)
 
         return True      
-        ```
+```
 # using bit
 ```
 class Solution:
