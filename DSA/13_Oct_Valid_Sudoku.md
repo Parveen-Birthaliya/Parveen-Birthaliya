@@ -1,4 +1,4 @@
-#hash set
+# hash set
 ```
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
@@ -52,7 +52,7 @@ class Solution:
 
         return True
 ```
-brute force
+# brute force
 ```
 class Solution:
     def isValidSudoku(self, board):
