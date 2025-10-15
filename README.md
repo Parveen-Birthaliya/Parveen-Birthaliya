@@ -11,8 +11,6 @@ Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
 
 
 
-
-
 <br>
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px"> Connect with Me</h2>
