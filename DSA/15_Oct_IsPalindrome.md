@@ -16,3 +16,21 @@ class Solution:
                 return False
         return True
 ```
+```
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        l=[ch for ch in s if ch.isalnum()]
+        st="".join(l).lower()
+        if st==" ":
+            return True
+        if st==st[::-1]:
+            return True
+        else:
+            return False
+```
+```
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        new_str = "".join([char for char in s if char.isalnum()]).lower()
+        return new_str == new_str[::-1]
+```
