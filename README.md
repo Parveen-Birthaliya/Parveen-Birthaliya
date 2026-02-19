@@ -2,7 +2,7 @@
 
 [![Medium](https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@Bit_Picker)
 
-Aspiring expert in AI Engineer | AI-ML (2026)| GenAI | SUPER 100 |
+Working on End To End Python Project with AI integration | AI-ML (2026) | SUPER 100 |
 
 ---
 
