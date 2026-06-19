@@ -1,0 +1,132 @@
+Orion assesment
+
+CHAIN-OF-THOUGHT (CoT) PROMPTING
+
+Exercise:1
+A number is divisible by 9 if its sum of digit is divisible by 9,
+find the sum of digits of the number , 
+check sum is divisible by 9 
+if yes then the number is divisible by 9 
+else not divisible by 9
+example: 
+like for 45 : 4+5 = 9 
+and 9 is divisible by 9 ,9 % 9 = 1
+so 45 is divisible by 9 
+
+Exercise 2: Marketing Message Evaluation
+Audience: Business owners or managers who want more work done.
+
+Missing info: How it improves? By how much percent? Is it saving time or money?
+
+Convincing?: No, too boring and everyone say this.
+
+Better version: "Our ERP automates daily data entry to save your team 10 hours every week."
+
+Exercise 3: Feature-to-Benefit Thinking
+Meaning: "Cloud-based" means software runs on internet, not on your office computer hard disk.
+
+2 Benefits:
+
+You can check data from anywhere using phone.
+
+No need to buy expensive servers for office.
+
+Why useful: It save money and let team work from home easily.
+
+Exercise 4: Decision Making
+Excel limits: Too many manual typing, easy to make mistake, slow when data is big.
+
+ERP advantages: All data in one place, automatic reports, no double entry.
+
+Comparison: Excel is free but waste time when startup grows. ERP cost money but helps grow fast without mistakes.
+
+Decision: Startups should use ERP if they have budget, else start Excel but plan to move soon.
+
+Exercise 5: Problem Analysis
+Root cause: People typing data by hand into system.
+
+How delays happen: Human type slow, make typos, then others have to find mistake and fix it.
+
+Solution: Use automatic software or scanner to import data directly without typing.
+
+ReAct (REASON + ACT) PROMPTING
+Exercise 1: Weak Statement Improvement
+Critique: "Good" means nothing. It don't tell what the software actually do or why customer should care.
+
+Missing: Specific features, results, or value.
+
+Better: "Our retail software tracks your inventory automatically so you never run out of stock."
+
+Exercise 2: Resume Enhancement
+Weakness: "Worked on testing" is weak. It don't show what tools you use or what you achieved.
+
+Add info: Used Selenium tool, found 50+ bugs, made software stable.
+
+Better: "Led automated testing using Selenium, reducing software bugs by 30% before launch."
+
+Exercise 3: CTA Optimization
+Critique: "Click here" is old and don't give reason to click.
+
+Add benefit: Tell them what they get if they click.
+
+Better: "Get Your Free Trial Now"
+
+Exercise 4: Email Content Fix
+Critique: Very dry sentence. Don't show how it helps the reader.
+
+Target: Small business owner who is stressed.
+
+Better: "We offer ERP solutions that handle your billing automatically so you can focus on sales."
+
+Exercise 5: Bug Description Rewrite
+Missing: When it is slow? Which page? What button you clicked?
+
+Details needed: Page name, steps to reproduce, loading time.
+
+Better: "Checkout page takes 15 seconds to load after clicking 'Confirm Payment' button on Chrome browser."
+
+SELF-CONSISTENCY PROMPTING
+Exercise 1: Short Description Refinement
+Version 1: ERP is software for business. It manages your stocks, finance, and HR in one system.
+
+Review: A bit dry. Need to show business value.
+
+Refined: ERP is a central software that connects your sales, inventory, and finance to save time and stop mistakes.
+
+Exercise 2: FAQ Answer Quality
+3 Answers:
+
+ERP stands for Enterprise Resource Planning and manages business.
+
+ERP is a software that connects all your department data together.
+
+ERP automates your office work like billing and inventory tracking.
+
+Best one & Reason: Answer 2 and 3 mixed is best because it explains what it is and what it does simply.
+
+Refined Best Answer: ERP is a central software that connects all your departments—like sales and inventory—so your business runs automatically in one place.
+
+Exercise 3: Email Subject Lines
+2 Variations:
+
+Invitation to ERP software demo.
+
+Save 5 hours a week: See our ERP demo.
+
+Evaluation: Version 2 is much better because it shows a clear benefit immediately.
+
+Refined Subject: "Free 15-Min Demo: How to save 5 hours every week with ERP"
+
+Exercise 4: Technical Explanation Simplification
+Original: Cloud computing is the on-demand availability of computer system resources like data storage and computing power over the internet.
+
+Review: Too textbook style. "On-demand availability" is hard word.
+
+Simplified: Cloud computing means storing and running your software on the internet instead of your own computer's hard drive.
+
+Exercise 5: Role-Based Messaging
+Version 1: ERP helps manager see reports and track what employees are doing every day.
+
+Review: Sounds like spying. Change tone to show how it helps manager make good decisions easily.
+
+Refined: ERP gives managers real-time dashboard reports so you can make fast decisions without asking staff for updates constantly.
